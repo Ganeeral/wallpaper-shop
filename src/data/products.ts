@@ -1,0 +1,48 @@
+export const products = [
+    {
+      id: 1,
+      name: "Обои Венеция",
+      image: "/wallpaper1.jpg",
+      price: 1200,
+      color: "Белый",
+      category: "Классика",
+      stock: 1,
+    },
+    {
+      id: 2,
+      name: "Обои Греческий узор",
+      image: "/wallpaper2.jpg",
+      price: 1400,
+      color: "Зеленый",
+      category: "Эко",
+      stock: 0,
+    },
+    {
+      id: 3,
+      name: "Обои Скандинавия",
+      image: "/wallpaper3.jpg",
+      price: 800,
+      color: "Серый",
+      category: "Модерн",
+      stock: 5,
+    },
+    {
+      id: 4,
+      name: "Обои Греция",
+      image: "/wallpaper4.webp",
+      price: 1200,
+      color: "Оранжевый",
+      category: "Модерн",
+      stock: 10,
+    },
+    {
+      id: 5,
+      name: "Обои Российские",
+      image: "/wallpaper5.jpeg",
+      price: 450,
+      color: "Черный",
+      category: "Эко",
+      stock: 2,
+    },
+  ];
+  
